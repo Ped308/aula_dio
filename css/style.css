@@ -1,0 +1,51 @@
+
+body {
+    font-family:'Ubuntu Condensed', sans-serif; 
+}
+.navbar {
+    background-color:#22223B;
+}
+
+.nav-color {
+    color: white !important;
+
+
+}
+.nav-link:hover {
+    color: gray !important;
+}
+.quem-somos {
+    background-color: #4A4E69;
+    color: white;
+
+}
+
+.margin{
+    padding-bottom: 52px;
+}
+
+.margin-text {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.font-tam {
+    font-size: 25px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.parceiros{
+    padding-top: 20px;
+    background-color: #9A8C98;
+    color: white;
+}
+
+.servicos {
+    padding-top: 20px;
+    background-color:#C9ADA7;
+    color: white;
+}
+
+.borda {
+    margin-top: 20px;
+    border-radius: 20px;
+}
